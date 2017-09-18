@@ -1,2 +1,1 @@
-# ReadKey
-Console ReadKey();
+# Dll
